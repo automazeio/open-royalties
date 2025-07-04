@@ -95,7 +95,7 @@ If you sell the project before everyone’s paid back:
 
 ---
 
-## 💡 Why supporters love it
+## 💡 Why early-stage backers should love it
 
 Backers aren’t stuck waiting years for a big exit – they get returns from day one of real sales.
 
