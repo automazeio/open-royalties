@@ -1,6 +1,6 @@
 # Royalty Agreement
 
-[ Open Royalty (simple); version 1.0.0 ]
+[ Open Royalties (simple); version 1.0.0 ]
 
 ## 1. Purpose
 
