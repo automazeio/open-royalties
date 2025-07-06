@@ -29,7 +29,7 @@ A lot of modern businesses don’t fit old-school funding.
 
 ## What’s included
 
-This repo includes **two ready-to-use templates** for setting up fair, clear royalty deals:
+This repo includes **three ready-to-use templates** for setting up fair, clear royalty deals:
 
 ### 📄 `open-royalties-full.md`
 
@@ -39,11 +39,17 @@ This repo includes **two ready-to-use templates** for setting up fair, clear roy
 
 ### 📄 `open-royalties-simple.md`
 
-* Includes a steering committee – but *no formal seat* for backers.
+* Includes a steering committee - but *no formal seat* for backers.
 * You run the project fully yourself while sharing revenue as agreed.
 * Great for small, quick deals where you want minimal oversight.
 
-Both versions are **project-based** – so the rest of your business stays untouched.
+### 📄 `open-royalties-partnerships.md`
+
+* For non-cash deals - partners contribute skills, IP, or work instead of money.
+* Clear royalty split based on contribution instead of investment.
+* Perfect for collaborations without giving up equity.
+
+All versions are **project-based** – so the rest of your business stays untouched.
 
 ---
 
