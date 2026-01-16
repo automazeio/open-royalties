@@ -134,3 +134,6 @@ These templates are not legal advice. Always get a real lawyer to check your fin
 ---
 
 **Fund your next project simply. Share the rewards fairly. Build what you want – your way.**
+
+Github Repository: https://github.com/automazeio/open-royalties
+
