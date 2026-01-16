@@ -31,19 +31,19 @@ A lot of modern businesses don’t fit old-school funding.
 
 This repo includes **three ready-to-use templates** for setting up fair, clear royalty deals:
 
-### 📄 `open-royalties-full.md`
+### [📄 `open-royalties-full.md`](open-royalties-full.md)
 
 * Includes a *steering committee* with a seat for your backers.
 * They get a say in the project – not full control – so you keep creative freedom, but they stay in the loop.
 * Works well for bigger rounds or a group of backers pooling funds.
 
-### 📄 `open-royalties-simple.md`
+### [📄 `open-royalties-simple.md`](open-royalties-simple.md)
 
 * Includes a steering committee - but *no formal seat* for backers.
 * You run the project fully yourself while sharing revenue as agreed.
 * Great for small, quick deals where you want minimal oversight.
 
-### 📄 `open-royalties-partnerships.md`
+### [📄 `open-royalties-partnerships.md`](open-royalties-partnership.md)
 
 * For non-cash deals - partners contribute skills, IP, or work instead of money.
 * Clear royalty split based on contribution instead of investment.
