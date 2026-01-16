@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add:*)",
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nAdd single-page website and improve README\n\nWebsite:\n- Minimal, clean design for GitHub Pages\n- Timeline illustration comparing SAFE vs Open Royalties\n- Icons for agreement types \\(full, simple, partnership\\)\n- Highlights for key concepts \\(gross revenue, project-based\\)\n- Mobile responsive\n\nREADME improvements:\n- Clarify this is for revenue-focused projects\n- Add gross revenue explanation \\(key differentiator\\)\n- Rename \"Exit plan\" to \"Built-in exit protection\"\n- Strengthen backer protection messaging\n\n🤖 Generated with Claude Code\nEOF\n\\)\")"
+    ]
+  }
+}

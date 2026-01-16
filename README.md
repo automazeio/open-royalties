@@ -8,7 +8,7 @@
 
 ## What is Open Royalties?
 
-**Open Royalties** is an easy way for builders to get upfront cash for new projects *without* selling equity or taking on rigid loans.
+**Open Royalties** is an easy way for builders to get upfront cash for new projects *without* selling equity or taking on rigid loans. It's designed for projects that are focused on generating revenue – not speculative moonshots hoping for a big exit.
 
 You raise money from early supporters – they back your idea upfront, and you share a small piece of *project revenue* as you earn.
 No big promises. No forced exit. Just clear terms, aligned interests, and real revenue sharing.
@@ -73,14 +73,18 @@ You decide:
 
 * What % of project revenue gets shared
 * For how long
-* And what total return your backers receive (for example: you might share 5% of revenue until they’ve received 1.5x what they gave you).
+* If there's a cap on the total return your backers receive (for example: you might share 5% of revenue until they've received 5x what they gave you).
 
-### ✅ Exit plan
+Royalties are based on **gross revenue** – only payment fees, refunds, and taxes are deducted. No murky "expenses" to argue about. Backers can easily verify their share, and builders are motivated to spend wisely since costs don't reduce what's owed.
 
-If you sell the project before everyone’s paid back:
+### ✅ Built-in exit protection
 
-* You pay out a fair share based on the reference price.
-* It keeps things honest and avoids surprises.
+Backers are protected if you sell, merge, or shut down the project:
+
+* They receive a fair payout based on their share of the reference price.
+* No waiting for a "maybe someday" exit – they're covered either way.
+
+This keeps things honest for both sides: builders can exit when it makes sense, and backers know they won't be left empty-handed.
 
 ---
 
@@ -109,7 +113,7 @@ Backers aren’t stuck waiting years for a big exit – they get returns from da
 
 * **Early upside:** the minute revenue comes in, they share in the success.
 * **Aligned goals:** the more the project earns, the better for everyone.
-* **Protected:** clear reference price means fair payout if plans change.
+* **Exit-protected:** if the project sells, you get your fair share – no hoping for a payout that may never come.
 
 ---
 
